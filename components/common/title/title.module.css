@@ -1,0 +1,20 @@
+.special {
+  /* min-width: 36.834rem; */
+  width: 100%;
+  padding-top: 14.5%;
+  background-color: black;
+  background-image: url('/images/weimong/bg-title.png');
+  background-size: 100%;
+  display: flex;
+  align-items: center;
+  box-shadow: 0px 10px 20px 5px rgba(0, 0, 0, 0.808);
+  color: white;
+  position: relative;
+}
+.special span {
+  position: absolute;
+  left: 3rem;
+  top: 40%;
+  font-size: 1.4rem;
+  /* transform: translateY(20%); */
+}
